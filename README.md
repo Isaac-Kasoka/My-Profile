@@ -4,35 +4,35 @@ I am a London-based professional developing expertise in Governance, Risk and Co
 
 What I’m Currently Learning
 
-Risk management and business-risk mitigation
+-Risk management and business-risk mitigation
 
-Compliance auditing and regulatory adherence
+-Compliance auditing and regulatory adherence
 
-Implementing and assessing security controls
+-Implementing and assessing security controls
 
-Helping organisations meet ISO 27001, NIST and SOC 2 requirements
+-Helping organisations meet ISO 27001, NIST and SOC 2 requirements
 
-Applying cybersecurity principles within GRC programmes
+-Applying cybersecurity principles within GRC programmes
 
-Assessing ESG risks, impacts and material topics
+-Assessing ESG risks, impacts and material topics
 
-Sustainability reporting, disclosure and due diligence
+-Sustainability reporting, disclosure and due diligence
 
 Skills and Tools
 
-GRC and standards: Risk Management, Compliance Auditing, ISO 27001, NIST, SOC 2 and GDPR
+-GRC and standards: Risk Management, Compliance Auditing, ISO 27001, NIST, SOC 2 and GDPR
 
-ESG and sustainability: ESG Risk Assessment, Materiality Analysis, Sustainability Reporting, Corporate Accountability and Human Rights Due Diligence
+-ESG and sustainability: ESG Risk Assessment, Materiality Analysis, Sustainability Reporting, Corporate Accountability and Human Rights Due Diligence
 
-Reporting frameworks: GRI Standards, IFRS S1 and IFRS S2
+-Reporting frameworks: GRI Standards, IFRS S1 and IFRS S2
 
-Security monitoring: SIEM, Splunk and IDS/IPS
+-Security monitoring: SIEM, Splunk and IDS/IPS
 
-Network analysis: Wireshark
+-Network analysis: Wireshark
 
-Security testing: Metasploit, Burp Suite and OWASP ZAP
+-Security testing: Metasploit, Burp Suite and OWASP ZAP
 
-Systems and environments: VMware and Kali Linux
+-Systems and environments: VMware and Kali Linux
 
 Core capabilities: Security Controls, Regulatory Adherence and Business-Risk Mitigation
 
